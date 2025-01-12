@@ -1,0 +1,1 @@
+Contains Top world stocks historical data from 2000-1-1 to 2024-1-1
